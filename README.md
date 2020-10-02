@@ -1,2 +1,2 @@
 # devops
-repo for devops activity
+repo for devops learning activity
